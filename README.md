@@ -2,7 +2,7 @@
 
 - Design Inspiration from : https://dribbble.com/shots/16955717-Task-Manager-App
 
-- This is a Simple Counter Application with a design of a "To - Do " App
+- This is a Simple Counter Application with a design of a " To - Do " App
 - Counter is created using the useState hook.
 
 <h2> Design </h2>

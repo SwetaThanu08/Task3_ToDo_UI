@@ -1,7 +1,8 @@
 # Assignment 3 
 
 - Design Inspiration from : https://dribbble.com/shots/16955717-Task-Manager-App
-- This is a Counter Application 
+
+- This is a Counter Application. In the User Interface, Counter is created using the useState hook.
 
 # Screenshots 
 
